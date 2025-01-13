@@ -131,7 +131,7 @@ class HomeScreen extends StatelessWidget {
                               Image.asset(
                                   "assets/abecedario/abc-3.png"),
                             ],
-                            url: "https://i.postimg.cc/6QGH5H4K/ABC.gifs",
+                            url: "https://jaade.net/ABC.gif",
                           ),
                           SectionCard(
                             "Pronombres",
@@ -142,11 +142,11 @@ class HomeScreen extends StatelessWidget {
                             ),
                             images: [
                               Image.asset(
-                                  "https://i.postimg.cc/s2wj30ZB/1-pro.png"),
+                                  "assets/pronombres/1-pro.png"),
                               Image.asset(
-                                  "https://i.postimg.cc/R0MC5zq5/2-pro.png")
+                                  "assets/pronombres/2-pro.png")
                             ],
-                            url: "https://i.postimg.cc/wMw9wxV9/Prono.gif",
+                            url: "https://jaade.net/Prono.gif",
                           ),
                         ],
                       ),
@@ -155,55 +155,55 @@ class HomeScreen extends StatelessWidget {
                         children: [
                           SectionCard("Saludos",
                               icon: Image.asset(
-                                "https://i.postimg.cc/c4kkx6Bq/salu.png",
+                                "assets/saludos/salu.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/nrWczSNq/1-s.png"),
+                                    "assets/saludos/1-s.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/L6r8F7tp/2-s.png"),
+                                    "assets/saludos/2-s.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/YSyp8sqZ/3-s.png"),
+                                    "assets/saludos/3-s.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/JhhrNLmj/4-s.png")
+                                    "assets/saludos/4-s.png")
                               ],
-                              url: "https://i.postimg.cc/MGk7tzXk/SALU.gif"),
+                              url: "https://jaade.net/SALU.gif"),
                           SectionCard("Verbos",
                               icon: Image.asset(
-                                "https://i.postimg.cc/Pr5Fn1Zz/verbs.png",
+                                "assets/verbos/verbs.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/gjdM8Vwr/1-verb.png"),
+                                    "assets/verbos/1-verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/bv7VNcpx/2_verb.png"),
+                                    "assets/verbos/2_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/zBTtytG9/3_verb.png"),
+                                    "assets/verbos/3_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/90pLpDTb/4_verb.png"),
+                                    "assets/verbos/4_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/c1MkZbj3/5_verb.png"),
+                                    "assets/verbos/5_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/sDTnGZ3D/6_verb.png"),
+                                    "assets/verbos/6_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/8PpKCbQ0/7_verb.png"),
+                                    "assets/verbos/7_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/FH1TysKb/8_verb.png"),
+                                    "assets/verbos/8_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/K8VJJSK6/9_verb.png"),
+                                    "assets/verbos/9_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/yNZnGQck/10_verb.png"),
+                                    "assets/verbos/10_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/TwvQvVJQ/11_verb.png"),
+                                    "assets/verbos/11_verb.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/tTdkqsrb/12_verb.png")
+                                    "assets/verbos/12_verb.png")
                               ],
                               url:
-                                  "https://i.postimg.cc/wBw5dVv1/Verbos-LSM.gif"),
+                                  "https://jaade.net/Verbos.gif"),
                         ],
                       ),
                       Row(
@@ -211,33 +211,33 @@ class HomeScreen extends StatelessWidget {
                         children: [
                           SectionCard("Colores",
                               icon: Image.asset(
-                                "https://i.postimg.cc/x1R7zYHY/colo.png",
+                                "assets/colores/colo.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/0N4VYNNg/1-colr.png"),
+                                    "assets/colores/1-colr.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/W3JXXPDd/2-colr.png")
+                                    "assets/colores/2-colr.png")
                               ],
-                              url: "https://i.postimg.cc/y6wnVb3T/Colores.gif"),
+                              url: "https://jaade.net/Colores.gif"),
                           SectionCard("Numeros",
                               icon: Image.asset(
-                                "https://i.postimg.cc/Jzmv0tsP/num.png",
+                                "assets/numeros/num.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/KjSQWsLJ/1-num.png"),
+                                    "assets/numeros/1-num.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/gjV4bqHd/2-num.png"),
+                                    "assets/numeros/2-num.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/XNds54Sh/3-num.png"),
+                                    "assets/numeros/3-num.png"),
                               ],
                               url:
-                                  "https://i.postimg.cc/90krp9sD/N-meros-LSM.gif"),
+                                  "https://jaade.net/N-meros-LSM.gif"),
                         ],
                       ),
                       Row(
@@ -245,37 +245,37 @@ class HomeScreen extends StatelessWidget {
                         children: [
                           SectionCard("Tiempos",
                               icon: Image.asset(
-                                "https://i.postimg.cc/1RHYdvg3/tiemp.png",
+                                "assets/tiempos/tiemp.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/fyXSD4RS/1-tiem.png"),
+                                    "assets/tiempos/1-tiem.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/sXMZHGFc/2-tiem.png"),
+                                    "assets/tiempos/2-tiem.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/TwB5z2fX/3-tiem.png")
+                                    "assets/tiempos/3-tiem.png")
                               ],
-                              url: "https://i.postimg.cc/xCm1bvDW/Tiempo.gif"),
+                              url: "https://jaade.net/Tiempo.gif"),
                           SectionCard("Familia",
                               icon: Image.asset(
-                                "https://i.postimg.cc/nVY6JHWZ/FAMILIA.png",
+                                "assets/familia/FAMILIA.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/FzykHT6W/1-fam.png"),
+                                    "assets/familia/1-fam.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/fWm9Cbbc/2-fam.png"),
+                                    "assets/familia/2-fam.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/xTQb4SkW/3-fam.png"),
+                                    "assets/familia/3-fam.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/VLFbyHn5/4-fam.png"),
+                                    "assets/familia/4-fam.png"),
                               ],
                               url:
-                                  "https://i.postimg.cc/mrspr8BV/Familia-LSM.gif"),
+                                  "https://jaade.net/Familia-LSM.gif"),
                         ],
                       ),
                       Row(
@@ -283,35 +283,35 @@ class HomeScreen extends StatelessWidget {
                         children: [
                           SectionCard("Emociones",
                               icon: Image.asset(
-                                "https://i.postimg.cc/L69G4cdP/emoci.png",
+                                "assets/emociones/emoci.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/W3N2WQQw/1-emo.png"),
+                                    "assets/emociones/1-emo.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/Ssgmwg4F/2-emo.png"),
+                                    "assets/emociones/2-emo.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/HnjTHbWJ/3-emo.png")
+                                    "assets/emociones/3-emo.png")
                               ],
                               url:
-                                  "https://i.postimg.cc/9QMZY91V/Emociones-LSM.gif"),
+                                  "https://jaade.net/Emociones-LSM.gif"),
                           SectionCard("Preguntas",
                               icon: Image.asset(
-                                "https://i.postimg.cc/vZpPnjK3/pre.png",
+                                "assets/preguntas/pre.png",
                                 height: 80,
                                 width: 80,
                               ),
                               images: [
                                 Image.asset(
-                                    "https://i.postimg.cc/fbw8SQqY/1-pre.png"),
+                                    "assets/preguntas/1-pre.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/XYK2vYLV/2-pre.png"),
+                                    "assets/preguntas/2-pre.png"),
                                 Image.asset(
-                                    "https://i.postimg.cc/wB00h4nZ/3-pre.png")
+                                    "assets/preguntas/3-pre.png")
                               ],
-                              url: "https://i.postimg.cc/gkvs6CjM/Pregu.gif"),
+                              url: "https://jaade.net/Pregu.gif"),
                         ],
                       ),
                     ],
