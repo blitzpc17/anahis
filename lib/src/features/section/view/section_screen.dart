@@ -62,7 +62,7 @@ class _SectionScreenState extends State<SectionScreen> {
             ),
             Container(
               color: const Color.fromARGB(255, 240, 169, 213),
-              child: Image.network(widget.url),
+              child: Image.asset(widget.url),
             )
           ],
         ),

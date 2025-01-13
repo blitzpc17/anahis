@@ -131,7 +131,7 @@ class HomeScreen extends StatelessWidget {
                               Image.asset(
                                   "assets/abecedario/abc-3.png"),
                             ],
-                            url: "https://jaade.net/ABC.gif",
+                            url: "assets/abecedario/ABC.gif",
                           ),
                           SectionCard(
                             "Pronombres",
@@ -146,7 +146,7 @@ class HomeScreen extends StatelessWidget {
                               Image.asset(
                                   "assets/pronombres/2-pro.png")
                             ],
-                            url: "https://jaade.net/Prono.gif",
+                            url: "assets/pronombres/Prono.gif",
                           ),
                         ],
                       ),
@@ -169,7 +169,7 @@ class HomeScreen extends StatelessWidget {
                                 Image.asset(
                                     "assets/saludos/4-s.png")
                               ],
-                              url: "https://jaade.net/SALU.gif"),
+                              url: "assets/saludos/SALU.gif"),
                           SectionCard("Verbos",
                               icon: Image.asset(
                                 "assets/verbos/verbs.png",
@@ -203,7 +203,7 @@ class HomeScreen extends StatelessWidget {
                                     "assets/verbos/12_verb.png")
                               ],
                               url:
-                                  "https://jaade.net/Verbos.gif"),
+                                  "assets/verbos/Verbos.gif"),
                         ],
                       ),
                       Row(
@@ -221,7 +221,7 @@ class HomeScreen extends StatelessWidget {
                                 Image.asset(
                                     "assets/colores/2-colr.png")
                               ],
-                              url: "https://jaade.net/Colores.gif"),
+                              url: "assets/colores/Colores.gif"),
                           SectionCard("Numeros",
                               icon: Image.asset(
                                 "assets/numeros/num.png",
@@ -237,7 +237,7 @@ class HomeScreen extends StatelessWidget {
                                     "assets/numeros/3-num.png"),
                               ],
                               url:
-                                  "https://jaade.net/N-meros-LSM.gif"),
+                                  "assets/numeros/N-meros-LSM.gif"),
                         ],
                       ),
                       Row(
@@ -257,7 +257,7 @@ class HomeScreen extends StatelessWidget {
                                 Image.asset(
                                     "assets/tiempos/3-tiem.png")
                               ],
-                              url: "https://jaade.net/Tiempo.gif"),
+                              url: "assets/tiempos/Tiempo.gif"),
                           SectionCard("Familia",
                               icon: Image.asset(
                                 "assets/familia/FAMILIA.png",
@@ -275,7 +275,7 @@ class HomeScreen extends StatelessWidget {
                                     "assets/familia/4-fam.png"),
                               ],
                               url:
-                                  "https://jaade.net/Familia-LSM.gif"),
+                                  "assets/familia/Familia-LSM.gif"),
                         ],
                       ),
                       Row(
@@ -296,7 +296,7 @@ class HomeScreen extends StatelessWidget {
                                     "assets/emociones/3-emo.png")
                               ],
                               url:
-                                  "https://jaade.net/Emociones-LSM.gif"),
+                                  "assets/emociones/Emociones LSM.gif"),
                           SectionCard("Preguntas",
                               icon: Image.asset(
                                 "assets/preguntas/pre.png",
@@ -311,7 +311,7 @@ class HomeScreen extends StatelessWidget {
                                 Image.asset(
                                     "assets/preguntas/3-pre.png")
                               ],
-                              url: "https://jaade.net/Pregu.gif"),
+                              url: "assets/preguntas/Pregu.gif"),
                         ],
                       ),
                     ],
